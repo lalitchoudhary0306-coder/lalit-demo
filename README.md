@@ -1,3 +1,3 @@
 # lalit-demo
 This is my first Git Repository
-Authoe - Lalit Choudhary
+Author - Lalit Choudhary
