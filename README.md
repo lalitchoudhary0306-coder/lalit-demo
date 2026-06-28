@@ -3,5 +3,4 @@ This is my first Git Repository
 <br>
 Author - Lalit Choudhary
 <br>
-lalit is here
 
